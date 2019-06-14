@@ -18,4 +18,4 @@ def big_number(num1,num2,num3):
 first = int (input("What is the first number\n"));
 sec = int(input("What is the second number\n"));
 third = int(input ("What is the third number\n"));
-big_number(first,sec,third);
+big_number(first,sec,third);   #This is calling the fuction
