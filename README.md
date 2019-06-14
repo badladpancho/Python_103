@@ -1,7 +1,7 @@
 # Python_103
 This is a fast way of picking up python for me, starting from 
-If Statements  
-If Statements &amp; Comparisons 
+
+If Statements & Comparisons 
 Building a better Calculator  
 Dictionaries 
 While Loop  
