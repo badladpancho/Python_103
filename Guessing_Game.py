@@ -1,6 +1,9 @@
-# This is going to be a simple game in order to guess
-# We are going to be using if statments while loops and other things that i have
-# learned.
+#   This is going to be a simple game in order to guess
+#   We are going to be using if statments while loops and other things that i have
+#   learned.
+#   MADE BY BADLADPANCHO
+
+
 print("Player 1 enter the secret word\n");
 secret_word = input("");
 print("OK lets play!");
